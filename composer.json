@@ -1,6 +1,6 @@
 {
   "name": "studiovisual/cpf",
-  "description": "CPF Validator",
+  "description": "Documents Validators and Generators",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "StudioVisual\\": "src/Cpf/"
+      "StudioVisual\\": "src/documents/"
     }
   },
   "extra": {
